@@ -1,7 +1,7 @@
-import React from "react";
+import React, { ReactElement } from "react";
+import workingDays from "./data/working-days.json";
+import Planning from "./components/Planning";
 
-function App() {
-  return <div>Hello</div>;
+export default function App(): ReactElement {
+  return <Planning workingDays={workingDays} />;
 }
-
-export default App;

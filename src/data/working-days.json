@@ -1,0 +1,12 @@
+[
+  { "dayNumber": 0, "opensAt": "08:00", "closesAt": "12:00" },
+  { "dayNumber": 0, "opensAt": "13:00", "closesAt": "16:00" },
+  { "dayNumber": 1, "opensAt": "08:00", "closesAt": "12:00" },
+  { "dayNumber": 1, "opensAt": "13:00", "closesAt": "16:00" },
+  { "dayNumber": 2, "opensAt": "08:00", "closesAt": "12:00" },
+  { "dayNumber": 2, "opensAt": "13:00", "closesAt": "16:00" },
+  { "dayNumber": 3, "opensAt": "08:00", "closesAt": "10:00" },
+  { "dayNumber": 4, "opensAt": "08:00", "closesAt": "10:00" },
+  { "dayNumber": 4, "opensAt": "14:00", "closesAt": "16:00" },
+  { "dayNumber": 5, "opensAt": "08:00", "closesAt": "16:00" }
+]
